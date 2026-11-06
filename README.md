@@ -1,4 +1,4 @@
-# ThredUp — ESG & Circularity Dashboard (SAM 503 · Lab 4)
+# ThredUp — ESG & Circularity Dashboard 
 
 Interactive Streamlit dashboard on ThredUp Inc.'s ESG and circularity performance, FY2016–FY2025, for
 sustainability analysts who brief the Sustainability Director and the Board.
